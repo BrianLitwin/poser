@@ -1,0 +1,19 @@
+.drawer-title {
+    margin-left: 20px;
+  }
+  
+  .drawer-section {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .drawer-item {
+    margin-left: 20px;
+    padding: 5px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .drawer-item:hover {
+    background-color: #d6d6d6;
+  }
